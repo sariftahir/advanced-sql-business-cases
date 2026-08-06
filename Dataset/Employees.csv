@@ -1,0 +1,21 @@
+EmployeeID,EmployeeName,DepartmentID,ManagerID,HireDate,Salary,Email
+1,Amanda Morse,2,,2019-10-23,17409356,weberluis@example.net
+2,Theresa Bell,4,,2020-03-31,10312979,malonemichael@example.org
+3,Brian Smith,3,,2022-05-21,6787627,econway@example.net
+4,Jennifer Miller,1,,2023-09-06,5087161,kristen60@example.com
+5,Kimberly Flores,3,,2023-03-26,12461429,castilloamanda@example.com
+6,Jerry Hale,3,3.0,2024-02-03,6715158,featon@example.com
+7,Patrick Lowe,2,1.0,2024-06-20,8143912,kathleenmeyers@example.net
+8,Sheri Hughes,4,4.0,2023-11-09,14344658,jenniferpeck@example.org
+9,Corey Taylor,5,5.0,2018-12-29,11845845,jennifer92@example.net
+10,Ellen Gilbert,1,1.0,2019-04-23,6503554,padillacharles@example.com
+11,Kenneth Flowers,3,5.0,2024-11-22,6561359,adam23@example.com
+12,Pamela Wilson,5,5.0,2025-04-07,18160697,loganhampton@example.net
+13,Rebecca Thornton,3,4.0,2024-01-07,5207041,jordandavid@example.com
+14,Ashley Carter,3,4.0,2025-10-30,11506196,mrichardson@example.org
+15,Cheryl Nguyen,1,5.0,2026-06-02,9072543,mitchellblair@example.net
+16,Christine Shannon,5,5.0,2019-04-03,7845129,kelli33@example.net
+17,Gary Hensley,4,2.0,2025-05-23,7329349,travis78@example.org
+18,Brianna Butler,3,3.0,2021-11-17,9503118,pmatthews@example.net
+19,Jacob Smith,4,2.0,2025-05-03,6061446,stacey80@example.org
+20,Lauren Russell,2,4.0,2019-08-02,9629871,edwardsheather@example.com

@@ -1,0 +1,501 @@
+ReturnID,OrderID,ReturnDate,QuantityReturned,ReturnReason
+1,6161,2024-05-08,1,Defective
+2,5579,2025-01-26,1,Late Delivery
+3,2563,2025-06-03,1,Customer Changed Mind
+4,1011,2025-01-08,1,Late Delivery
+5,1751,2025-12-17,1,Damaged
+6,4565,2025-04-30,1,Late Delivery
+7,8414,2025-07-18,1,Defective
+8,7559,2024-12-10,1,Damaged
+9,6872,2025-11-19,1,Late Delivery
+10,772,2025-11-07,1,Late Delivery
+11,6738,2025-12-10,1,Late Delivery
+12,7396,2024-07-22,1,Damaged
+13,3800,2026-01-16,1,Defective
+14,7195,2024-09-03,1,Defective
+15,2790,2024-06-27,1,Damaged
+16,6127,2024-03-16,1,Defective
+17,550,2024-02-21,1,Late Delivery
+18,901,2025-01-14,1,Late Delivery
+19,9398,2025-01-19,1,Wrong Item
+20,3910,2025-10-28,1,Damaged
+21,2635,2024-02-01,1,Wrong Item
+22,1921,2025-01-22,1,Late Delivery
+23,9388,2024-12-14,1,Damaged
+24,5612,2025-03-03,1,Customer Changed Mind
+25,6386,2026-01-10,1,Defective
+26,3197,2025-03-27,1,Customer Changed Mind
+27,2939,2024-08-12,1,Customer Changed Mind
+28,971,2024-11-17,1,Wrong Item
+29,6136,2024-03-28,1,Defective
+30,18,2024-04-25,1,Damaged
+31,6922,2025-08-31,1,Late Delivery
+32,5692,2025-05-07,1,Damaged
+33,683,2025-05-13,1,Wrong Item
+34,6504,2024-10-25,1,Late Delivery
+35,9312,2025-11-02,1,Wrong Item
+36,6362,2024-10-02,1,Customer Changed Mind
+37,1860,2024-10-03,1,Damaged
+38,5502,2024-04-25,1,Wrong Item
+39,8864,2025-01-03,1,Wrong Item
+40,8518,2025-04-03,1,Damaged
+41,4153,2025-02-07,1,Late Delivery
+42,4466,2025-08-16,1,Wrong Item
+43,5755,2025-01-16,1,Late Delivery
+44,2075,2024-06-02,1,Wrong Item
+45,3563,2025-11-25,1,Defective
+46,4097,2025-08-18,1,Wrong Item
+47,9509,2025-12-04,1,Late Delivery
+48,4332,2024-10-19,1,Damaged
+49,1183,2024-01-29,1,Defective
+50,1696,2025-08-17,1,Customer Changed Mind
+51,447,2024-09-26,1,Damaged
+52,545,2025-01-09,1,Defective
+53,2796,2024-04-16,1,Wrong Item
+54,544,2024-05-11,1,Late Delivery
+55,8811,2025-03-30,1,Defective
+56,9335,2025-10-15,1,Damaged
+57,6149,2025-07-25,1,Late Delivery
+58,8056,2025-04-29,1,Late Delivery
+59,6618,2024-04-14,1,Wrong Item
+60,559,2024-03-29,1,Customer Changed Mind
+61,4874,2024-11-23,1,Wrong Item
+62,959,2024-03-17,1,Late Delivery
+63,6749,2025-03-25,1,Defective
+64,2356,2024-07-22,1,Defective
+65,4014,2024-09-20,1,Customer Changed Mind
+66,3056,2025-10-29,1,Wrong Item
+67,1583,2025-04-05,1,Defective
+68,5941,2025-11-29,1,Customer Changed Mind
+69,1964,2024-05-01,1,Customer Changed Mind
+70,7640,2024-06-29,1,Customer Changed Mind
+71,5162,2025-09-30,1,Late Delivery
+72,2042,2025-12-13,1,Customer Changed Mind
+73,9869,2025-11-12,1,Damaged
+74,6166,2024-09-17,1,Customer Changed Mind
+75,7746,2025-01-17,1,Late Delivery
+76,9671,2024-02-20,1,Defective
+77,2930,2024-04-25,1,Customer Changed Mind
+78,9447,2025-11-10,1,Customer Changed Mind
+79,6681,2026-01-02,1,Damaged
+80,450,2024-02-01,1,Customer Changed Mind
+81,5527,2024-07-12,1,Customer Changed Mind
+82,8570,2025-05-29,1,Defective
+83,7052,2024-10-04,1,Wrong Item
+84,5795,2025-05-07,1,Late Delivery
+85,3840,2024-12-17,1,Customer Changed Mind
+86,1321,2024-10-26,1,Damaged
+87,4434,2026-01-08,1,Late Delivery
+88,3471,2025-12-24,1,Wrong Item
+89,4432,2025-07-31,1,Defective
+90,2919,2024-06-18,1,Damaged
+91,2941,2025-09-25,1,Wrong Item
+92,538,2025-02-11,1,Customer Changed Mind
+93,8115,2025-06-17,1,Damaged
+94,765,2025-11-20,1,Wrong Item
+95,4699,2024-10-23,1,Defective
+96,3556,2025-01-09,1,Late Delivery
+97,1289,2025-12-20,1,Defective
+98,742,2025-11-22,1,Defective
+99,7462,2025-03-09,1,Defective
+100,7495,2026-01-15,1,Damaged
+101,2759,2025-10-19,1,Late Delivery
+102,2720,2024-03-01,1,Wrong Item
+103,2350,2024-10-31,1,Damaged
+104,9198,2024-03-15,1,Wrong Item
+105,7648,2024-12-14,1,Defective
+106,4159,2025-05-03,1,Wrong Item
+107,9789,2025-01-21,1,Late Delivery
+108,5448,2024-09-11,1,Damaged
+109,8302,2025-02-13,1,Customer Changed Mind
+110,9281,2024-03-14,1,Late Delivery
+111,3154,2024-08-02,1,Damaged
+112,6558,2025-05-28,1,Damaged
+113,7974,2025-07-20,1,Customer Changed Mind
+114,4802,2024-04-10,1,Customer Changed Mind
+115,2694,2024-01-27,1,Damaged
+116,8860,2024-09-04,1,Defective
+117,6513,2025-12-11,1,Defective
+118,541,2025-02-03,1,Customer Changed Mind
+119,1345,2024-01-16,1,Defective
+120,7966,2024-01-19,1,Damaged
+121,6421,2025-09-11,1,Damaged
+122,7720,2025-11-27,1,Defective
+123,8681,2024-11-02,1,Customer Changed Mind
+124,7377,2025-02-05,1,Damaged
+125,3497,2025-06-04,1,Damaged
+126,8236,2025-03-13,1,Defective
+127,8454,2024-03-04,1,Defective
+128,940,2024-07-10,1,Defective
+129,1935,2024-08-14,1,Customer Changed Mind
+130,1702,2024-11-29,1,Late Delivery
+131,1045,2025-05-06,1,Late Delivery
+132,3386,2025-07-23,1,Damaged
+133,543,2024-05-08,1,Wrong Item
+134,5736,2025-09-14,1,Late Delivery
+135,2821,2024-12-30,1,Wrong Item
+136,9512,2024-04-07,1,Damaged
+137,2465,2024-12-13,1,Late Delivery
+138,3406,2025-06-03,1,Damaged
+139,8678,2025-11-13,1,Defective
+140,3646,2025-05-23,1,Damaged
+141,5966,2025-03-26,1,Damaged
+142,2424,2024-07-15,1,Wrong Item
+143,3447,2025-12-17,1,Late Delivery
+144,7627,2024-04-30,1,Wrong Item
+145,8091,2025-08-04,1,Defective
+146,5496,2025-09-18,1,Defective
+147,725,2024-10-09,1,Late Delivery
+148,4420,2025-08-04,1,Late Delivery
+149,4695,2024-03-21,1,Defective
+150,8590,2024-05-19,1,Customer Changed Mind
+151,492,2025-01-08,1,Damaged
+152,6514,2025-02-22,1,Late Delivery
+153,3968,2024-01-16,1,Late Delivery
+154,3066,2025-02-17,1,Late Delivery
+155,4325,2026-01-12,1,Damaged
+156,4566,2024-11-14,1,Late Delivery
+157,9016,2024-01-19,1,Wrong Item
+158,9986,2024-11-01,1,Damaged
+159,6540,2025-09-04,1,Customer Changed Mind
+160,8993,2024-08-29,1,Late Delivery
+161,4102,2025-10-16,1,Customer Changed Mind
+162,6714,2024-12-28,1,Customer Changed Mind
+163,568,2025-12-21,1,Wrong Item
+164,4567,2025-01-30,1,Wrong Item
+165,1797,2025-07-28,1,Customer Changed Mind
+166,2775,2025-02-22,1,Defective
+167,6851,2025-05-04,1,Customer Changed Mind
+168,1718,2025-12-24,1,Late Delivery
+169,6489,2025-07-28,1,Late Delivery
+170,6004,2024-05-17,1,Late Delivery
+171,5323,2025-07-03,1,Customer Changed Mind
+172,5096,2025-08-02,1,Customer Changed Mind
+173,2127,2025-04-21,1,Defective
+174,7653,2025-11-17,1,Wrong Item
+175,9594,2024-11-19,1,Late Delivery
+176,4058,2025-03-12,1,Defective
+177,3218,2024-04-02,1,Customer Changed Mind
+178,9634,2025-06-10,1,Wrong Item
+179,9353,2024-04-29,1,Late Delivery
+180,7682,2025-05-30,1,Defective
+181,913,2025-05-25,1,Defective
+182,2168,2024-10-09,1,Defective
+183,1979,2024-07-14,1,Wrong Item
+184,4880,2025-03-10,1,Defective
+185,6241,2025-08-23,1,Damaged
+186,1269,2025-06-13,1,Damaged
+187,6317,2024-04-07,1,Defective
+188,571,2024-12-09,1,Wrong Item
+189,5110,2025-12-04,1,Late Delivery
+190,7760,2024-04-24,1,Late Delivery
+191,6227,2024-03-29,1,Wrong Item
+192,1194,2025-08-15,1,Late Delivery
+193,827,2025-08-05,1,Late Delivery
+194,2439,2024-08-11,1,Damaged
+195,7001,2024-03-27,1,Customer Changed Mind
+196,6009,2025-11-06,1,Customer Changed Mind
+197,4318,2024-03-23,1,Customer Changed Mind
+198,4813,2025-10-06,1,Wrong Item
+199,1353,2024-09-17,1,Late Delivery
+200,9618,2025-08-23,1,Defective
+201,730,2024-06-11,1,Damaged
+202,4345,2024-06-19,1,Customer Changed Mind
+203,3251,2024-07-12,1,Defective
+204,8017,2025-08-13,1,Wrong Item
+205,7618,2024-09-05,1,Late Delivery
+206,2736,2025-08-30,1,Late Delivery
+207,6791,2025-05-26,1,Defective
+208,7511,2025-08-25,1,Wrong Item
+209,539,2024-03-05,1,Customer Changed Mind
+210,5410,2024-10-10,1,Wrong Item
+211,174,2024-02-07,1,Late Delivery
+212,3369,2025-08-18,1,Customer Changed Mind
+213,5266,2025-11-18,1,Damaged
+214,6776,2025-06-23,1,Wrong Item
+215,3894,2024-02-14,1,Damaged
+216,7391,2024-11-19,1,Late Delivery
+217,3062,2025-09-27,1,Damaged
+218,4493,2024-08-26,1,Defective
+219,6505,2025-08-17,1,Defective
+220,4400,2025-02-27,1,Late Delivery
+221,5333,2025-11-04,1,Wrong Item
+222,6509,2025-01-09,1,Late Delivery
+223,158,2024-06-16,1,Late Delivery
+224,4819,2024-09-24,1,Late Delivery
+225,8804,2024-05-14,1,Late Delivery
+226,5854,2024-04-07,1,Defective
+227,1416,2025-08-01,1,Defective
+228,1394,2026-01-26,1,Damaged
+229,9588,2024-03-13,1,Late Delivery
+230,9719,2024-12-30,1,Defective
+231,514,2024-09-12,1,Defective
+232,6629,2024-05-16,1,Wrong Item
+233,5247,2025-03-09,1,Defective
+234,6438,2025-01-19,1,Defective
+235,3856,2025-03-10,1,Customer Changed Mind
+236,2883,2024-04-19,1,Late Delivery
+237,3050,2025-12-02,1,Damaged
+238,6624,2025-02-19,1,Damaged
+239,7950,2025-07-03,1,Late Delivery
+240,9916,2024-11-26,1,Damaged
+241,1168,2026-01-03,1,Late Delivery
+242,1891,2025-05-04,1,Defective
+243,1261,2024-06-30,1,Wrong Item
+244,8051,2024-12-16,1,Defective
+245,8335,2025-04-14,1,Late Delivery
+246,5518,2025-02-02,1,Damaged
+247,1869,2025-08-27,1,Damaged
+248,2945,2025-08-08,1,Damaged
+249,5696,2024-12-24,1,Damaged
+250,9876,2025-06-05,1,Wrong Item
+251,2808,2024-12-03,1,Wrong Item
+252,7441,2024-01-10,1,Damaged
+253,2926,2025-12-11,1,Wrong Item
+254,9531,2024-11-03,1,Late Delivery
+255,1265,2024-12-03,1,Wrong Item
+256,6643,2025-09-09,1,Damaged
+257,9779,2025-11-17,1,Wrong Item
+258,4771,2025-12-03,1,Late Delivery
+259,2288,2025-01-04,1,Damaged
+260,2390,2025-08-29,1,Damaged
+261,2143,2025-06-13,1,Defective
+262,9944,2024-05-07,1,Defective
+263,2328,2024-05-27,1,Customer Changed Mind
+264,5705,2024-12-30,1,Damaged
+265,4043,2025-12-27,1,Late Delivery
+266,8951,2024-06-17,1,Late Delivery
+267,4215,2024-10-06,1,Wrong Item
+268,1159,2024-04-17,1,Customer Changed Mind
+269,9044,2025-01-13,1,Customer Changed Mind
+270,7260,2025-09-16,1,Late Delivery
+271,5413,2025-12-27,1,Defective
+272,7839,2025-06-23,1,Defective
+273,6395,2025-01-26,1,Late Delivery
+274,1420,2025-11-20,1,Defective
+275,8028,2024-08-21,1,Customer Changed Mind
+276,6640,2025-05-26,1,Late Delivery
+277,6134,2024-09-18,1,Defective
+278,7940,2025-09-06,1,Wrong Item
+279,2651,2024-01-11,1,Wrong Item
+280,2620,2025-06-08,1,Customer Changed Mind
+281,4233,2024-01-26,1,Late Delivery
+282,5965,2025-03-30,1,Defective
+283,8533,2024-10-07,1,Damaged
+284,8528,2024-06-12,1,Damaged
+285,3860,2025-05-04,1,Late Delivery
+286,7144,2025-02-08,1,Wrong Item
+287,7093,2025-01-05,1,Damaged
+288,231,2024-09-21,1,Wrong Item
+289,8187,2025-01-16,1,Damaged
+290,9590,2025-06-25,1,Damaged
+291,9169,2025-01-14,1,Defective
+292,3544,2024-09-08,1,Damaged
+293,3849,2024-04-27,1,Late Delivery
+294,4631,2024-09-08,1,Late Delivery
+295,781,2024-07-22,1,Customer Changed Mind
+296,8418,2024-08-28,1,Wrong Item
+297,3294,2024-04-02,1,Customer Changed Mind
+298,3187,2024-06-27,1,Late Delivery
+299,7732,2024-02-09,1,Damaged
+300,8377,2024-05-21,1,Defective
+301,3575,2025-04-24,1,Wrong Item
+302,6429,2024-08-13,1,Late Delivery
+303,1842,2025-07-31,1,Wrong Item
+304,5762,2025-04-17,1,Damaged
+305,9443,2025-11-08,1,Defective
+306,2991,2024-10-22,1,Customer Changed Mind
+307,6375,2024-07-26,1,Wrong Item
+308,6794,2025-08-25,1,Damaged
+309,8560,2024-04-01,1,Customer Changed Mind
+310,6649,2024-12-12,1,Damaged
+311,6268,2025-03-05,1,Defective
+312,8482,2024-12-01,1,Damaged
+313,387,2025-11-29,1,Defective
+314,8882,2024-12-23,1,Wrong Item
+315,363,2025-11-10,1,Wrong Item
+316,7887,2024-03-11,1,Damaged
+317,9648,2025-12-19,1,Defective
+318,6050,2025-01-29,1,Customer Changed Mind
+319,6834,2025-01-31,1,Damaged
+320,5504,2025-07-30,1,Damaged
+321,3909,2025-07-17,1,Damaged
+322,834,2024-06-22,1,Wrong Item
+323,414,2025-12-01,1,Customer Changed Mind
+324,811,2024-12-19,1,Wrong Item
+325,3055,2025-10-11,1,Defective
+326,2345,2024-12-31,1,Defective
+327,7939,2025-07-17,1,Damaged
+328,5974,2024-05-26,1,Wrong Item
+329,222,2025-11-24,1,Late Delivery
+330,3305,2025-07-19,1,Customer Changed Mind
+331,6704,2024-03-31,1,Late Delivery
+332,259,2026-01-06,1,Late Delivery
+333,4603,2025-09-10,1,Late Delivery
+334,7707,2025-12-10,1,Damaged
+335,94,2025-10-21,1,Damaged
+336,2546,2025-11-23,1,Wrong Item
+337,9181,2024-08-18,1,Late Delivery
+338,585,2025-11-25,1,Defective
+339,3848,2024-06-12,1,Wrong Item
+340,3640,2024-01-19,1,Defective
+341,7416,2024-09-21,1,Customer Changed Mind
+342,1426,2024-08-15,1,Defective
+343,4340,2024-02-19,1,Late Delivery
+344,2327,2026-01-13,1,Damaged
+345,1827,2024-04-10,1,Wrong Item
+346,3538,2024-06-07,1,Customer Changed Mind
+347,7738,2025-01-26,1,Late Delivery
+348,4730,2024-05-19,1,Wrong Item
+349,7366,2024-06-23,1,Wrong Item
+350,2893,2024-11-28,1,Defective
+351,8173,2024-11-12,1,Late Delivery
+352,9319,2024-11-18,1,Damaged
+353,3731,2024-11-14,1,Late Delivery
+354,9483,2025-05-07,1,Customer Changed Mind
+355,2875,2025-12-03,1,Customer Changed Mind
+356,2358,2025-07-25,1,Damaged
+357,6679,2024-11-21,1,Wrong Item
+358,8247,2026-01-20,1,Late Delivery
+359,4561,2025-03-17,1,Defective
+360,9349,2025-12-17,1,Customer Changed Mind
+361,5370,2026-01-17,1,Defective
+362,4261,2025-03-05,1,Wrong Item
+363,2586,2026-01-04,1,Late Delivery
+364,8172,2025-10-14,1,Customer Changed Mind
+365,6826,2025-01-03,1,Damaged
+366,2064,2025-09-22,1,Defective
+367,4037,2024-06-21,1,Defective
+368,4040,2024-08-23,1,Wrong Item
+369,6476,2025-05-16,1,Customer Changed Mind
+370,9407,2024-09-25,1,Defective
+371,8369,2025-05-22,1,Late Delivery
+372,3511,2025-11-28,1,Wrong Item
+373,2316,2024-07-19,1,Late Delivery
+374,5069,2025-01-31,1,Damaged
+375,488,2025-11-05,1,Wrong Item
+376,7723,2026-01-04,1,Late Delivery
+377,2849,2024-01-21,1,Defective
+378,8439,2024-12-07,1,Customer Changed Mind
+379,1401,2024-09-23,1,Customer Changed Mind
+380,5663,2025-07-29,1,Wrong Item
+381,8231,2025-10-23,1,Customer Changed Mind
+382,6824,2025-03-23,1,Customer Changed Mind
+383,1234,2024-08-12,1,Late Delivery
+384,8212,2025-04-27,1,Wrong Item
+385,418,2025-01-15,1,Damaged
+386,9659,2025-03-15,1,Damaged
+387,8294,2025-04-20,1,Late Delivery
+388,505,2025-06-16,1,Late Delivery
+389,9828,2025-08-12,1,Late Delivery
+390,8754,2025-05-18,1,Late Delivery
+391,9197,2025-03-02,1,Customer Changed Mind
+392,1023,2025-08-25,1,Damaged
+393,4306,2024-06-02,1,Late Delivery
+394,319,2025-01-27,1,Late Delivery
+395,3787,2025-03-24,1,Customer Changed Mind
+396,6456,2024-11-21,1,Defective
+397,2900,2025-07-13,1,Wrong Item
+398,7170,2024-06-05,1,Wrong Item
+399,2402,2025-07-02,1,Damaged
+400,4403,2024-09-11,1,Defective
+401,4951,2025-07-25,1,Late Delivery
+402,5396,2024-08-01,1,Customer Changed Mind
+403,2082,2025-09-13,1,Wrong Item
+404,3043,2025-07-19,1,Late Delivery
+405,7929,2024-05-18,1,Customer Changed Mind
+406,5889,2024-06-05,1,Wrong Item
+407,9868,2024-03-28,1,Damaged
+408,4244,2024-03-24,1,Wrong Item
+409,2230,2025-03-11,1,Damaged
+410,6385,2024-09-02,1,Late Delivery
+411,8005,2024-06-06,1,Damaged
+412,3811,2025-12-11,1,Defective
+413,2194,2024-06-16,1,Customer Changed Mind
+414,7936,2025-08-16,1,Damaged
+415,3038,2025-02-24,1,Wrong Item
+416,2420,2026-01-06,1,Customer Changed Mind
+417,1670,2025-02-26,1,Wrong Item
+418,5168,2025-04-28,1,Late Delivery
+419,5707,2024-03-16,1,Defective
+420,3902,2025-10-18,1,Late Delivery
+421,2393,2025-05-04,1,Damaged
+422,5245,2024-04-23,1,Defective
+423,823,2024-12-16,1,Defective
+424,1579,2024-01-27,1,Damaged
+425,9478,2025-12-24,1,Customer Changed Mind
+426,3074,2025-08-26,1,Wrong Item
+427,3046,2025-04-10,1,Damaged
+428,9285,2024-02-21,1,Wrong Item
+429,7252,2025-08-27,1,Late Delivery
+430,4156,2024-07-27,1,Defective
+431,5923,2025-04-03,1,Defective
+432,1399,2024-05-14,1,Customer Changed Mind
+433,6466,2025-07-01,1,Customer Changed Mind
+434,5542,2024-07-27,1,Damaged
+435,1123,2024-11-26,1,Wrong Item
+436,6916,2024-10-21,1,Late Delivery
+437,70,2024-10-21,1,Wrong Item
+438,8957,2025-11-08,1,Wrong Item
+439,6537,2024-04-28,1,Late Delivery
+440,2843,2024-10-13,1,Customer Changed Mind
+441,4853,2025-09-10,1,Late Delivery
+442,9714,2024-03-17,1,Wrong Item
+443,5325,2024-12-17,1,Customer Changed Mind
+444,1741,2025-04-22,1,Defective
+445,3683,2024-10-28,1,Late Delivery
+446,3266,2024-08-28,1,Wrong Item
+447,9521,2024-04-24,1,Customer Changed Mind
+448,6968,2025-08-02,1,Customer Changed Mind
+449,6982,2026-01-15,1,Late Delivery
+450,77,2024-12-14,1,Customer Changed Mind
+451,5588,2025-08-03,1,Customer Changed Mind
+452,7607,2025-05-05,1,Customer Changed Mind
+453,5304,2025-09-05,1,Late Delivery
+454,2441,2024-05-14,1,Late Delivery
+455,9421,2025-07-20,1,Late Delivery
+456,6654,2024-12-06,1,Wrong Item
+457,6474,2024-09-09,1,Defective
+458,4995,2024-05-22,1,Wrong Item
+459,7847,2025-03-28,1,Defective
+460,1077,2024-03-31,1,Customer Changed Mind
+461,1532,2024-05-15,1,Wrong Item
+462,8390,2025-11-21,1,Defective
+463,1405,2025-11-17,1,Late Delivery
+464,3477,2024-08-30,1,Customer Changed Mind
+465,2206,2025-11-16,1,Customer Changed Mind
+466,63,2025-09-01,1,Late Delivery
+467,7430,2025-04-11,1,Defective
+468,2541,2024-05-09,1,Customer Changed Mind
+469,3168,2024-05-31,1,Late Delivery
+470,9394,2024-05-08,1,Defective
+471,1945,2024-08-02,1,Damaged
+472,9552,2026-01-09,1,Damaged
+473,1430,2025-12-19,1,Defective
+474,4311,2025-03-28,1,Late Delivery
+475,6548,2024-11-12,1,Damaged
+476,5401,2024-11-11,1,Defective
+477,5980,2024-09-17,1,Customer Changed Mind
+478,889,2025-04-30,1,Late Delivery
+479,6731,2025-04-30,1,Late Delivery
+480,3561,2024-05-22,1,Damaged
+481,7089,2024-09-20,1,Customer Changed Mind
+482,9508,2025-06-22,1,Damaged
+483,8333,2024-05-07,1,Customer Changed Mind
+484,5575,2024-07-24,1,Late Delivery
+485,1038,2025-10-04,1,Customer Changed Mind
+486,6197,2024-02-27,1,Damaged
+487,7506,2024-11-27,1,Wrong Item
+488,6890,2025-10-04,1,Late Delivery
+489,5910,2024-04-06,1,Customer Changed Mind
+490,5820,2024-01-29,1,Customer Changed Mind
+491,9511,2024-04-05,1,Damaged
+492,1233,2024-10-29,1,Customer Changed Mind
+493,9781,2024-12-03,1,Late Delivery
+494,6212,2024-03-24,1,Defective
+495,6758,2025-11-29,1,Damaged
+496,7256,2025-03-09,1,Defective
+497,6652,2025-07-08,1,Customer Changed Mind
+498,1007,2024-09-20,1,Wrong Item
+499,3012,2024-11-01,1,Late Delivery
+500,2260,2024-05-21,1,Late Delivery
